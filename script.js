@@ -192,10 +192,22 @@ const nameSinger = $(".singer-name")
 const photo = $("#img")
 const playList = [
     {
+        src:"./mp3/EmDenTudau.mp3",
+        nameSong:"Em Đến Từ Đâu",
+        singer:"Cà Nâu",
+        img: "https://i.ytimg.com/vi/XljPb9Wmw6c/maxresdefault.jpg"
+    },
+    {
         src:"./mp3/CuNoiYeuLanNay.mp3",
         nameSong:" Cứ Nói Yêu Lần Này ",
-        singer: "Lil Z Poet",
+        singer: "Lil Zpoet",
         img: "https://i.ytimg.com/vi/faK_x9Xc3gs/maxresdefault.jpg"
+    },
+    {
+        src:"./mp3/YeuTuDauMaRa.mp3",
+        nameSong:"Yêu Từ Đâu Mà Ra ",
+        singer: "Lil Zpoet",
+        img: "https://i.ytimg.com/vi/EUGjrBnrheM/maxresdefault.jpg"
     },
     {
         src:"./mp3/MotNguoiViEm.mp3",
@@ -214,7 +226,13 @@ const playList = [
         src:"./mp3/CherryLove.mp3",
         nameSong: "Cherry Love",
         singer: "Híu",
-        img: "https://i.ytimg.com/vi/71xspX2vwf8/maxresdefault.jpg"
+        img: "https://i.ytimg.com/vi/Zl6zJyTzU6A/maxresdefault.jpg"
+    },
+    {
+        src:"./mp3/Matchanah.mp3",
+        nameSong:" Matchanah ",
+        singer: "Híu x Bâu",
+        img: "https://i.ytimg.com/vi/WJZcNMGIbiE/maxresdefault.jpg"
     },
     {
         src:"./mp3/ChoAnhMotChutHyVong.mp3",
