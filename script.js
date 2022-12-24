@@ -192,7 +192,7 @@ const nameSinger = $(".singer-name")
 const photo = $("#img")
 const playList = [
     {
-        src:"./mp3/EmDenTudau.mp3",
+        src:"./mp3/EmDenTuDau.mp3",
         nameSong:"Em Đến Từ Đâu",
         singer:"Cà Nâu",
         img: "https://i.ytimg.com/vi/XljPb9Wmw6c/maxresdefault.jpg"
