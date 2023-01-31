@@ -198,16 +198,22 @@ const playList = [
         img: "https://i.ytimg.com/vi/XljPb9Wmw6c/maxresdefault.jpg"
     },
     {
+        src:"./mp3/YeuTuDauMaRa.mp3",
+        nameSong:"Yêu Từ Đâu Mà Ra ",
+        singer: "Lil Zpoet",
+        img: "https://i.ytimg.com/vi/EUGjrBnrheM/maxresdefault.jpg"
+    },
+    {
         src:"./mp3/CuNoiYeuLanNay.mp3",
         nameSong:" Cứ Nói Yêu Lần Này ",
         singer: "Lil Zpoet",
         img: "https://i.ytimg.com/vi/faK_x9Xc3gs/maxresdefault.jpg"
     },
     {
-        src:"./mp3/YeuTuDauMaRa.mp3",
-        nameSong:"Yêu Từ Đâu Mà Ra ",
-        singer: "Lil Zpoet",
-        img: "https://i.ytimg.com/vi/EUGjrBnrheM/maxresdefault.jpg"
+        src:"./mp3/FIRSTDATE.mp3",
+        nameSong:"FIRTSDATE",
+        singer: "DPee x Zuz",
+        img: "https://i.ytimg.com/vi/ixBPvyV-UCk/maxresdefault.jpg"
     },
     {
         src:"./mp3/MotNguoiViEm.mp3",
@@ -238,7 +244,7 @@ const playList = [
         src:"./mp3/ChoAnhMotChutHyVong.mp3",
         nameSong: "Cho Anh Một Chút Hy Vọng",
         singer: "Haukong ft. Flymingo x AnhVu", 
-        img: "https://i.ytimg.com/vi/y67MDad-Zqc/maxresdefault.jpg"
+        img: "https://i.ytimg.com/vi/Ldd-f7u1nhU/maxresdefault.jpg"
     },
     {
         src:"./mp3/ChacLaSayOi.mp3",
@@ -287,38 +293,30 @@ const playList = [
         img: "https://i.ytimg.com/vi/0o5MiQ9W6M8/maxresdefault.jpg"
     },
     {
-        src:"./mp3/LanSauCuoi.mp3",
-        nameSong: " Lần Sau Cuối",
-        singer: "DuongG",
-        img: "https://i.ytimg.com/vi/OnIGA2325LE/maxresdefault.jpg"
+        src:"./mp3/YeuNhuTreCon.mp3",
+        nameSong:"Yêu Như Trẻ Con",
+        singer: "Bray",
+        img: "https://i.ytimg.com/vi/OtnQyqb6-nM/maxresdefault.jpg"
     },
     {
-        src:"./mp3/CuChillThoi.mp3",
-        nameSong: "Cứ Chill Thôi ",
-        singer: "Chillies ft Suni Hạ Linh & Rhymastic",
-        img: "https://lyrics-hot.com/wp-content/uploads/2021/02/loi-bai-hat-cu-chill-thoi-640.jpg"
-    },
-    {
-        src:"./mp3/AnhMetRoi.mp3",
-        nameSong:" Anh Mệt Rồi",
-        singer: "Anh Quân Idol x Freak D",
-        img: "https://i.ytimg.com/vi/wAQnEYVcOq4/maxresdefault.jpg"
-
+        src:"./mp3/OngBaAnh.mp3",
+        nameSong:"Ông Bà Anh",
+        singer: "Lê Thiện Hiếu",
+        img: "https://i.ytimg.com/vi/kcFAMZyq07E/maxresdefault.jpg"
     },
     {
         src:"./mp3/ChungTaCuaSauNay.mp3",
         nameSong:" Chúng Ta Của Sau Này",
         singer: "T.R.I",
         img: "https://avatar-ex-swe.nixcdn.com/song/share/2021/01/27/f/1/e/c/1611738359456.jpg"
-
     },
     {
-        src:"./mp3/Yeu1NguoiCoLe.mp3",
-        nameSong:"Yêu Một Người Có Lẽ",
-        singer: " Lou Hoàng - Miu Lê",
-        img: "https://i.ytimg.com/vi/w2DBMrXJDIo/sddefault.jpg"
-
+        src:"./mp3/GoiChoAnhDiBae.mp3",
+        nameSong:"Gọi Cho Anh Đi Bae",
+        singer: "KHOA Ft. Freakyt",
+        img: "https://i.ytimg.com/vi/qqpND_WB7Q8/maxresdefault.jpg"
     },
+    
     
 ]
 
