@@ -204,12 +204,6 @@ const playList = [
         img: "https://i.ytimg.com/vi/EUGjrBnrheM/maxresdefault.jpg"
     },
     {
-        src:"./mp3/CuNoiYeuLanNay.mp3",
-        nameSong:" Cứ Nói Yêu Lần Này ",
-        singer: "Lil Zpoet",
-        img: "https://i.ytimg.com/vi/faK_x9Xc3gs/maxresdefault.jpg"
-    },
-    {
         src:"./mp3/FIRSTDATE.mp3",
         nameSong:"FIRTSDATE",
         singer: "DPee x Zuz",
@@ -220,13 +214,6 @@ const playList = [
         nameSong: "Mot Nguoi Vi Em ",
         singer: "WEAN",
         img: "https://i.ytimg.com/vi/vS85YUO2dX4/hq720.jpg"
-    },
-    {
-        src:"./mp3/YeuVaYeu.mp3",
-        nameSong:"Yêu Và Yêu",
-        singer: "PZ.AKA.PZBOI",
-        img: "https://i.ytimg.com/vi/Qes1ctquHIY/hq720.jpg"
-
     },
     {
         src:"./mp3/CherryLove.mp3",
@@ -245,6 +232,12 @@ const playList = [
         nameSong: "Cho Anh Một Chút Hy Vọng",
         singer: "Haukong ft. Flymingo x AnhVu", 
         img: "https://i.ytimg.com/vi/Ldd-f7u1nhU/maxresdefault.jpg"
+    },
+    {
+        src:"./mp3/TrungManhRoi.mp3",
+        nameSong:"Trúng Mánh Rồi",
+        singer: "T TEAM",
+        img: "https://i.ytimg.com/vi/sciefkvnGAw/maxresdefault.jpg"
     },
     {
         src:"./mp3/ChacLaSayOi.mp3",
@@ -287,10 +280,10 @@ const playList = [
 
     },
     {
-        src:"./mp3/EmDaoNay.mp3",
-        nameSong: " Em Dạo Này",
-        singer: "Ngọt",
-        img: "https://i.ytimg.com/vi/0o5MiQ9W6M8/maxresdefault.jpg"
+        src:"./mp3/LacVaoTrongMo.mp3",
+        nameSong:"Lạc Vào Trong Mơ",
+        singer: "SimonC x WUY",
+        img: "https://i.ytimg.com/vi/S4g2uiFyWJc/maxresdefault.jpg"
     },
     {
         src:"./mp3/YeuNhuTreCon.mp3",
@@ -299,16 +292,22 @@ const playList = [
         img: "https://i.ytimg.com/vi/OtnQyqb6-nM/maxresdefault.jpg"
     },
     {
-        src:"./mp3/OngBaAnh.mp3",
-        nameSong:"Ông Bà Anh",
-        singer: "Lê Thiện Hiếu",
-        img: "https://i.ytimg.com/vi/kcFAMZyq07E/maxresdefault.jpg"
+        src:"./mp3/TinhDangNhuLyCaPhe.mp3",
+        nameSong:"Tình Đắng Như Ly Cà Phê",
+        singer: "T.R.I",
+        img: "https://i.ytimg.com/vi/ae2rt9DnnqI/maxresdefault.jpg"
     },
     {
-        src:"./mp3/ChungTaCuaSauNay.mp3",
-        nameSong:" Chúng Ta Của Sau Này",
-        singer: "T.R.I",
-        img: "https://avatar-ex-swe.nixcdn.com/song/share/2021/01/27/f/1/e/c/1611738359456.jpg"
+        src:"./mp3/MuoiNganNam.mp3",
+        nameSong:"10 Ngàn Năm",
+        singer: "PC",
+        img: "https://i.ytimg.com/vi/2-zSSzg8i3Y/maxresdefault.jpg"
+    },
+    {
+        src:"./mp3/Vuong.mp3",
+        nameSong:"Vương",
+        singer: "Nger",
+        img: "https://i.ytimg.com/vi/HdM_J4Y8XsI/maxresdefault.jpg"
     },
     {
         src:"./mp3/GoiChoAnhDiBae.mp3",
@@ -316,7 +315,12 @@ const playList = [
         singer: "KHOA Ft. Freakyt",
         img: "https://i.ytimg.com/vi/qqpND_WB7Q8/maxresdefault.jpg"
     },
-    
+    {
+        src:"./mp3/EmLamGiMuaDich.mp3",
+        nameSong:"Em Làm Gì Mùa Dịch",
+        singer: "QNT",
+        img: "https://i.ytimg.com/vi/R8NDBR8DZCw/maxresdefault.jpg"
+    },
     
 ]
 
